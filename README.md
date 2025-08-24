@@ -2,7 +2,7 @@
 # Hey there, I'm Dev 👋
 
 🚀 Aspiring AI/ML Developer | Exploring Generative AI  
-💡 Learning Python, Transformers, NLP, and Prompt Engineering  
+💡 Learning Python and C++, Transformers, NLP, and Prompt Engineering  
 📂 This is where I share my AI projects, experiments, and ideas  
 🛠️ Currently working on: Text generation, AI chatbots, and ML models  
 
